@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CT001",
+    "nombre": "davis garcia",
+    "telefono": "42893988",
+    "email": "davis@gmail.com"
+  },
+  {
+    "id": "CT002",
+    "nombre": "Carlos López",
+    "telefono": "12345678",
+    "email": "carlos.lopez@gmail.c"
+  },
+  {
+    "id": "CT003",
+    "nombre": "María Rodríguez",
+    "telefono": "87456321",
+    "email": "maria.rod@hotmail.co"
+  },
+  {
+    "id": "CT004",
+    "nombre": "Ana Martínez",
+    "telefono": "13542678",
+    "email": "ana.martinez@outlook"
+  },
+  {
+    "id": "CT005",
+    "nombre": "Luis Hernández",
+    "telefono": "85463271",
+    "email": "luis.hdz@yahoo.com"
+  },
+  {
+    "id": "CT006",
+    "nombre": "andres carrera",
+    "telefono": "64857231",
+    "email": "andres@gmail.com"
+  }
+]
