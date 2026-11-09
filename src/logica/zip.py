@@ -1,7 +1,3 @@
-# modulo: src/logica/zip.py
-# descripcion: Generación de respaldos comprimidos ZIP (.dat + .json)
-#-----------------------------------------------------------------------------
-
 import os
 import zipfile
 from datetime import datetime

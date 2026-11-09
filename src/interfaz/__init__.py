@@ -1,7 +1,3 @@
-# modulo: src/interfaz/__init__.py
-# descripcion: interfaz grafica principal con tkinter y ttk estandar
-#-----------------------------------------------------------------------------
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 import os

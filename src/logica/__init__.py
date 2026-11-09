@@ -1,7 +1,3 @@
-# modulo: src/logica/__init__.py
-# descripcion: paquete principal de logica - reexporta funcionalidades de modulos subordinados
-#-----------------------------------------------------------------------------
-
 # funciones de lectura/escritura con seek() y tell()
 from .lectura_escritura import (
     definir_posicion,

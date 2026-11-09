@@ -1,8 +1,3 @@
-# modulo: src/logica/metadatos.py
-# descripcion: modulo independiente para obtener metadatos de archivo usando os.stat()
-#-----------------------------------------------------------------------------
-
-
 import os
 import time
 

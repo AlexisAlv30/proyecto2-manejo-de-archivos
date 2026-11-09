@@ -1,7 +1,3 @@
-# modulo: src/modelos/contacto.py
-# descripcion: Define la clase Contacto y funciones de formateo/parseo de registros fijos de 100 bytes UTF-8
-#-----------------------------------------------------------------------------
-
 class Contacto:
     """Clase que representa un contacto de la agenda con empaquetado exacto de 100 bytes en UTF-8."""
 

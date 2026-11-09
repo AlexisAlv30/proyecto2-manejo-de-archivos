@@ -1,8 +1,3 @@
-# modulo: src/logic/indice.py
-# descripcion: Módulo independiente para gestión del índice JSON (id -> num_registro)
-#-----------------------------------------------------------------------------
-
-
 import os
 import json
 

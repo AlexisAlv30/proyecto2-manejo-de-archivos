@@ -1,7 +1,3 @@
-# modulo: src/exportadores/exportar_json.py
-# descripcion: exportacion de contactos a formato json
-#-----------------------------------------------------------------------------
-
 import json
 import os
 from src.modelos.contacto import Contacto

@@ -1,7 +1,3 @@
-# modulo: src/exportadores/exportar_pdf.py
-# descripcion: generacion de reportes pdf usando fpdf2
-#-----------------------------------------------------------------------------
-
 import os
 from fpdf import FPDF
 from src.modelos.contacto import Contacto

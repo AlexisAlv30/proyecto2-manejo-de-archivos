@@ -1,7 +1,3 @@
-# modulo: src/logica/lectura_escritura.py
-# descripcion: Operaciones de lectura/escritura con seek() y tell() en archivo .dat
-#-----------------------------------------------------------------------------
-
 import os
 from src.modelos.contacto import Contacto
 from src.logica.indice import cargar_indice, guardar_indice

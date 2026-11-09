@@ -1,7 +1,3 @@
-# modulo: src/logica/sha256.py
-# descripcion: modulo independiente para verificacion y calculo de hash sha-256
-#-----------------------------------------------------------------------------
-
 import hashlib
 import os
 
